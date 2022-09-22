@@ -1,4 +1,4 @@
 # Git_Aufgaben
 
-
-Dieses Repository beinhaltet die Aufgabe 01_git.
+## Inhalt
+Dieses Repository beinhaltet einen CheatSheet für Git.
