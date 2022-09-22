@@ -1,2 +1,4 @@
 # Git_Aufgaben
-Git Aufgaben
+
+
+Dieses Repository beinhaltet die Aufgabe 01_git.
